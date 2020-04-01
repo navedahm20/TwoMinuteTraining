@@ -1,0 +1,2 @@
+#Two Minute Training
+This is a blog style website. The articles aim to teach novice Instructional Designers about fundamental training, elearning, and ID concepts. The content is developed through notes that I take on books, webinars, and conferences.
